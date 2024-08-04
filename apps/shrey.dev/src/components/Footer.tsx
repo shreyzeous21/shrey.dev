@@ -21,21 +21,10 @@ function FooterDescription() {
         woking with Java and Spring Boot.
       </p>
       <ul className={clsx('-ml-2 flex gap-1')}>
+        
         <li>
           <a
-            href="https://twitter.com/MaheshBabu11_/"
-            target="_blank"
-            rel="noreferrer nofollow"
-            className={clsx('flex h-9 w-9 items-center justify-center')}
-            aria-label="My Twitter profile"
-            title="My Twitter profile"
-          >
-            <TwitterIcon className={clsx('h-5 w-5')} />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/maheshbabu11/"
+            href="https://github.com/shreyzeous21/"
             target="_blank"
             rel="noreferrer nofollow"
             className={clsx('flex h-9 w-9 items-center justify-center')}
@@ -47,7 +36,7 @@ function FooterDescription() {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/maheshbabu11/"
+            href="https://www.linkedin.com/in/shrey-sadhukhan-a96590201/"
             target="_blank"
             rel="noreferrer nofollow"
             className={clsx('flex h-9 w-9 items-center justify-center')}
