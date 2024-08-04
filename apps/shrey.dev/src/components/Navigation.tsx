@@ -55,7 +55,7 @@ function Navbar() {
                 <NavLink title="Projects" href="/projects" />
               </li>
               <li>
-                <NavLink title="Blog" href="https://blog.maheshbabu11.dev/" />
+                <NavLink title="Blog" href="https://remix-blog-pi.vercel.app" />
               </li>
 
               <li className={clsx('lg:hidden')} data-accent="blue">
