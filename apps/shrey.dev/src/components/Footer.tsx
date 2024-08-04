@@ -21,7 +21,6 @@ function FooterDescription() {
         woking with Java and Spring Boot.
       </p>
       <ul className={clsx('-ml-2 flex gap-1')}>
-        
         <li>
           <a
             href="https://github.com/shreyzeous21/"
