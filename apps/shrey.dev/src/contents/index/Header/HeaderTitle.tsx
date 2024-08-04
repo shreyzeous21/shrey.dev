@@ -72,7 +72,7 @@ function HeaderTitle() {
           <strong className={clsx('text-accent-600', 'dark:text-accent-500')}>
             Shrey
           </strong>{' '}
-          Sadhukhan,{' '}
+          ,{' '}
         </m.span>
         <m.h1
           className={clsx(
