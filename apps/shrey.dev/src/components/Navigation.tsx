@@ -69,28 +69,21 @@ function Navbar() {
           <ul className={clsx('flex items-center')}>
             <li className={clsx('hidden', 'sm:block')}>
               <NavIcon
-                href="https://www.linkedin.com/in/maheshbabu11/"
+                href="https://www.linkedin.com/in/shrey-sadhukhan-a96590201/"
                 icon={<LinkedInIcon className={clsx('h-5 w-5')} />}
                 title="Twitter"
               />
             </li>
             <li className={clsx('hidden', 'sm:block')}>
               <NavIcon
-                href="https://www.instagram.com/m_r.coder/"
+                href="https://www.instagram.com/shrey_sadhukha/"
                 icon={<InstagramIcon className={clsx('h-5 w-5')} />}
                 title="Instagram"
               />
             </li>
             <li className={clsx('hidden', 'sm:block')}>
               <NavIcon
-                href="https://twitter.com/MaheshBabu11_"
-                icon={<TwitterIcon className={clsx('h-5 w-5')} />}
-                title="Twitter"
-              />
-            </li>
-            <li className={clsx('hidden', 'sm:block')}>
-              <NavIcon
-                href="https://github.com/MaheshBabu11"
+                href="https://github.com/shreyzeous21"
                 icon={<GitHubIcon className={clsx('h-5 w-5')} />}
                 title="GitHub"
               />
