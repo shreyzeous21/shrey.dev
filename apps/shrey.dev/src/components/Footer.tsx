@@ -16,9 +16,9 @@ function FooterDescription() {
         About Me
       </div>
       <p className={clsx('mb-4 font-normal leading-relaxed')}>
-        I&apos;m Mahesh, a <strong>back-end developer</strong> who loves to
+        I&apos;m Shrey, a <strong>front-end developer</strong> who loves to
         tinker with new technologies and build cool stuff. I&apos;m currently
-        woking with Java and Spring Boot.
+        woking with Next js.
       </p>
       <ul className={clsx('-ml-2 flex gap-1')}>
         <li>
