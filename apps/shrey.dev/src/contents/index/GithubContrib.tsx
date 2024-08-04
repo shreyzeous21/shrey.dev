@@ -55,11 +55,11 @@ function GithubContribCard() {
         </strong>
       </div>
       <div className={clsx('flex items-center justify-center py-3')}>
-        <img
+        {/* <img
           src="https://raw.githubusercontent.com/MaheshBabu11/MaheshBabu11/main/profile-3d-contrib/profile-night-rainbow.svg"
           alt="Github Contrib Card"
           className={clsx('h-4/5 w-4/5 rounded-xl')}
-        />
+        /> */}
       </div>
     </div>
   );
