@@ -1,7 +1,7 @@
 import NextHead from 'next/head';
+import Script from 'next/script';
 
 import useCurrentUrl from '@/hooks/useCurrentUrl';
-import Script from 'next/script';
 
 interface HeadProps {
   title: string;
@@ -22,7 +22,7 @@ function Head({
 
   const htmlTitle = overrideTitle
     ? title
-    : `${title} — Mahesh · Back-End Developer`;
+    : `${title} — Shrey · Front-End Developer`;
 
   return (
     <NextHead>
