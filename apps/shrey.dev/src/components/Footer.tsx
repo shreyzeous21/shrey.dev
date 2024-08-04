@@ -64,7 +64,7 @@ function Footer() {
             <div className={clsx('flex-1')}>
               <FooterDescription />
             </div>
-            <div className={clsx('flex flex-1 flex-col sm:flex-row')}>
+            {/* <div className={clsx('flex flex-1 flex-col sm:flex-row')}>
               <img
                 className="h-30 w-60"
                 alt="Github Stats"
@@ -75,7 +75,7 @@ function Footer() {
                 alt="Github Profile Summary"
                 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshbabu11&theme=transparent"
               />
-            </div>
+            </div> */}
           </div>
         </div>
         <div
@@ -85,7 +85,7 @@ function Footer() {
           )}
         >
           <div className={clsx('font-semibold')}>
-            &copy; {dayjs().format('YYYY')}, Mahesh Babu
+            &copy; {dayjs().format('YYYY')}, Shrey Sadhukhan
           </div>
         </div>
       </div>
