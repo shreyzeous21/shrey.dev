@@ -259,17 +259,17 @@ function ProjectsContents() {
         progress={100}
       >
         <SectionTitle
-          title="Code-Coffee-Repeat"
+          title="Blog | Portfolio"
           caption="Next JS"
           description="This is a Next.js, Tailwind CSS blog about java, spring boot, programming, web development and everything else.It is based on Next App directory with React Server Component and uses Contentlayer to manage markdown content."
           buttons={[
             {
               title: 'learn more',
-              href: 'https://github.com/MaheshBabu11/personal-blog',
+              href: 'https://github.com/shreyzeous21/remix_blog',
             },
             {
               title: 'Live Demo',
-              href: 'https://blog.maheshbabu11.dev/',
+              href: 'https://remix-blog-pi.vercel.app',
             },
           ]}
         />
@@ -296,14 +296,14 @@ function ProjectsContents() {
                     browserTabs={[
                       {
                         icon: <GitHubIcon className="h-4 w-4" />,
-                        title: 'MaheshBabu11/personal-blog - GitHub',
+                        title: 'shreyzeous21/remix_blog - GitHub',
                         isActive: currentState === 'github',
                       },
                     ]}
                   >
                     {currentState === 'github' && (
                       <GitHubWireframe
-                        author="MaheshBabu11"
+                        author="Shreysadhukhan"
                         license="Apache-2.0 license"
                         repository="personal-blog"
                         description="This is my tech blog that where I write about java, spring boot, programming, web development and everything else."
